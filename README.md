@@ -1,6 +1,6 @@
-# 🚀 Crypto Marketing Prediction using Machine Learning
+#  Crypto Marketing Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project predicts whether a cryptocurrency's closing price will increase on the next day.
 
@@ -21,7 +21,7 @@ The project demonstrates a complete Machine Learning workflow:
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Cryptocurrency markets are highly volatile.
 
@@ -34,7 +34,7 @@ This helps traders and investors make data-driven decisions.
 
 ---
 
-## 📊 Dataset Features
+##  Dataset Features
 
 The dataset contains:
 
@@ -60,7 +60,7 @@ The dataset contains:
 
 ---
 
-## ⚙️ Machine Learning Pipeline
+##  Machine Learning Pipeline
 
 ### Data Preprocessing
 
@@ -82,7 +82,7 @@ Categorical Features:
 
 ---
 
-## 🔍 Hyperparameter Tuning
+##  Hyperparameter Tuning
 
 GridSearchCV was used to optimize the Random Forest model.
 
@@ -94,7 +94,7 @@ Parameters tuned:
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 The model is evaluated using:
 
@@ -107,7 +107,7 @@ The model is evaluated using:
 
 ---
 
-## 🏆 Feature Importance
+##  Feature Importance
 
 Feature importance analysis helps identify the most influential factors affecting cryptocurrency price movement.
 
@@ -121,7 +121,7 @@ Examples:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -132,7 +132,7 @@ Examples:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Crypto-Marketing-Prediction/
 
@@ -150,7 +150,7 @@ Crypto-Marketing-Prediction/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Clone Repository
 
@@ -172,7 +172,10 @@ Crypto Marketing.ipynb
 
 ---
 
-## 📌 Results
+## Streamlit cloud community:
+https://crypto-marketing-prediction-using-machine-learning-bwvqjcwnnhv.streamlit.app/
+
+##  Results
 
 The project compares multiple machine learning models and selects the best-performing model using GridSearchCV optimization.
 
