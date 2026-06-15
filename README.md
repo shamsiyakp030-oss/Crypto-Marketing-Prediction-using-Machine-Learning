@@ -194,6 +194,6 @@ The final model can be used for:
 
 Shamsiya KP
 
-AI & Data Science Trainee
+AI & Data Science 
 
 Machine Learning | Data Science | Python Developer
