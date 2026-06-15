@@ -171,6 +171,8 @@ Open:
 Crypto Marketing.ipynb
 
 ---
+## Crypto pkl file
+https://drive.google.com/file/d/1PMzS6glcC7dyO_iC1Lin47MbG7-4I9Uz/view?usp=drive_link
 
 ## Streamlit cloud community:
 https://crypto-marketing-prediction-using-machine-learning-bwvqjcwnnhv.streamlit.app/
